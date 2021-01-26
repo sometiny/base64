@@ -1,5 +1,5 @@
 {
-  "name": "cook-code-jazor-base64",
+  "name": "jazor-base64",
   "version": "1.0.0",
   "description": "base64 for javascript",
   "main": "index.js",
