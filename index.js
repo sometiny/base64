@@ -1,5 +1,5 @@
 (function() {
-	var Utf8 = require('cook-code-jazor-encoding').utf8;
+	var Utf8 = require('jazor-encoding').utf8;
 	var e = [];
 	e[65] = 0;
 	e[66] = 1;

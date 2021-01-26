@@ -1,6 +1,6 @@
 {
   "name": "jazor-base64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "base64 for javascript",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "javascript"
   ],
   "dependencies": {
-    "cook-code-jazor-encoding": "^1.0.0"
+    "jazor-encoding": "^1.0.0"
   },
   "author": "anlige",
   "license": "ISC",
